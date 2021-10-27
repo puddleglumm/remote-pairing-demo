@@ -1,4 +1,3 @@
-import pytest
 from bilbo import get_bilbo_age
 
 
